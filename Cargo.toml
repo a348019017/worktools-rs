@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "plugin_panoramic",
+    "plugin_interface",
+    "plugin_test"
+]
